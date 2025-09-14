@@ -2,8 +2,6 @@
 
 A playful MCP server that powers a tiny, evolving kingdom. World state lives in Supabase; OpenAI transforms it based on intents. Built for text-first assistants — tools return short, iMessage‑ready summaries and optional media URLs.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/InteractionCo/mcp-server-template)
-
 ---
 
 ## Features
